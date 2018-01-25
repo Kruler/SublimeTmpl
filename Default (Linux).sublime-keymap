@@ -23,4 +23,12 @@
         "keys": ["ctrl+alt++shift+p"], "command": "sublime_tmpl",
         "args": {"type": "python"}, "context": [{"key": "sublime_tmpl.python"}]
     }
+    ,{
+        "keys": ["ctrl+alt++shift+e"], "command": "sublime_tmpl",
+        "args": {"type": "erlang"}, "context": [{"key": "sublime_tmpl.erlang"}]
+    }
+    ,{
+        "keys": ["ctrl+alt++shift+c"], "command": "sublime_tmpl",
+        "args": {"type": "c++"}, "context": [{"key": "sublime_tmpl.c++"}]
+    }
 ]
