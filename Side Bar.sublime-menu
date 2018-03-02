@@ -58,6 +58,24 @@
                     "paths": [],
                 }
             },
+            {
+                "id": "c++",
+                "caption": "c++",
+                "command": "sublime_tmpl",
+                "args": {
+                    "type": "c++",
+                    "paths": [],
+                }
+            },
+            {
+                "id": "erlang",
+                "caption": "erlang",
+                "command": "sublime_tmpl",
+                "args": {
+                    "type": "erlang",
+                    "paths": [],
+                }
+            },
             {"caption": "-"},
             {
                 "id": "menu",
