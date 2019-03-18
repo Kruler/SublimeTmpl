@@ -109,7 +109,7 @@
     "enable_file_variables_on_save": false, // ${saved_filename}, ${saved_filepath} on save file
     "date_format" : "%Y-%m-%d %H:%M:%S",
     "attr": {
-        "author": "Yqfclid",
+        "author": "yqfclid",
         "email": "yqf@blackbird"
     }
 }
